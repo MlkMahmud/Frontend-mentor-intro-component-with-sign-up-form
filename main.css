@@ -10,7 +10,7 @@ body {
   justify-content: space-between;
   align-items: center;
   min-height: 100vh;
-  background: url(/images/bg-intro-desktop.png) no-repeat center #ff7a7a;
+  background: url("./images/bg-intro-desktop.png") no-repeat center #ff7a7a;
   background-size: cover;
   font-family: "Poppins", sans-serif;
   padding: 2vh 6vw;
@@ -148,7 +148,7 @@ input[type=submit] {
 @media screen and (max-width: 600px) {
   body {
     padding: 10vh 8vw;
-    background-image: url(/images/bg-intro-mobile.png);
+    background-image: url("./images/bg-intro-mobile.png");
     flex-direction: column;
     align-content: space-between;
   }
