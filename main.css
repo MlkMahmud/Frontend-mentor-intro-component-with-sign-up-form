@@ -32,7 +32,6 @@ body {
 .text-bold {
   font-weight: bolder;
   margin-bottom: 15px;
-  font-size: 3rem;
   line-height: 1.2em;
 }
 
@@ -76,7 +75,8 @@ form {
 .input-container input {
   width: 100%;
   font-family: "Poppins", sans-serif;
-  padding: 15px 10px;
+  font-weight: bold;
+  padding: 20px 0 20px 10px;
   border-radius: 5px;
   border: 1px solid lightgray;
   outline: none;
@@ -159,10 +159,6 @@ input[type=submit] {
   }
   .container:nth-of-type(1) {
     padding-bottom: 2rem;
-  }
-
-  .text-bold {
-    font-size: 2rem;
   }
 }
 
