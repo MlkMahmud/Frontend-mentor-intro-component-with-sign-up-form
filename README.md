@@ -1,8 +1,11 @@
 # Frontend Mentor - Intro component with sign up form
 
 ## About
-A front-end coding challenge set it [live]()
+A front-end coding challenge set it [live](https://zen-roentgen-a0b523.netlify.com/)
 
 ## Mockup
 
-![Design preview for the Intro component with sign up form coding challenge](./images/desktop-preview.jpg)
+![Desktop Design](./design/desktop-design.jpg)
+![Mobile Design](./design/mobile-design.jpg)
+
+
